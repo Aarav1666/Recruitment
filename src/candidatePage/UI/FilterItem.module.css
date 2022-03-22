@@ -1,0 +1,25 @@
+.selected-list-item{
+    border: none;
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    background: none;
+    list-style: none;
+
+    
+}
+
+.selected-list-item-button{
+    background: linear-gradient(147deg, #DDAF1B 0%, #E6BF38 85%);
+    border: 1px solid #d9bd68;
+    border-radius: 20px;
+    color: white;
+
+
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    margin: 10px;
+    font-size: 12px;
+}

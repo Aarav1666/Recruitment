@@ -1,0 +1,12 @@
+.selected-list-container{
+    border: none;
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    background: none;
+
+    width: 100%;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+}
